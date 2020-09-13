@@ -2,8 +2,8 @@
 
 Создайте приложение VueJS, которое будет работать с нашим сервером по протоколу GraphQL.
 
-* Документация по API: http://frontend.test-case.hr.markeaze.com/graphql
-* GraphQL API endpoint: http://frontend.test-case.hr.markeaze.com/graphql
+* Документация по API: http://vuejs.frontend.hr.markeaze.com/graphql
+* GraphQL API endpoint: http://vuejs.frontend.hr.markeaze.com/graphql
 
 Приложение должно использовать модули: `vuex`, `vue-router`, `apollo`.
 
